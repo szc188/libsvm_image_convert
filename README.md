@@ -1,0 +1,2 @@
+# libsvm_image_convert
+测试libsvm用于图片分类的python图片转换脚本
