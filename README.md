@@ -1,7 +1,7 @@
 # libsvm_image_convert
 测试libsvm用于图片分类的python图片转换脚本
 
-+ 测试环境: macOS Catalina
++ 测试环境: macOS Catalina    Python3  
 
 ## 食用方法  
 **train_img_cov.py** 用于将 train_images 文件夹下的多个文件夹里的图片转换为libsvm训练的格式  
