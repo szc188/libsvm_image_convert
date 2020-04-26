@@ -3,7 +3,7 @@
 
 + 测试环境: macOS Catalina    Python3  
 
-## 食用方法  
+## 使用方法  
 **train_img_cov.py** 用于将 train_images 文件夹下的多个文件夹里的图片转换为libsvm训练的格式  
 最后会将txt文件保存为 train_images/train_str.txt  
 存放格式像下面这样  
